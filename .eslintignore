@@ -1,0 +1,11 @@
+internals
+*.html
+node_modules
+coverage
+dist
+dist-unminified
+.eslintrc.js
+*.config.js
+cypress
+*.test.*
+storybook-static

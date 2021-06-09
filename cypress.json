@@ -1,0 +1,11 @@
+{
+  "testFiles": "**/*.test.*",
+  "componentFolder": "src",
+  "fixturesFolder": false,
+  "viewportWidth": 500,
+  "viewportHeight": 500,
+  "env": {
+    "coverage": false
+  },
+  "video": false
+}

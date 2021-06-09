@@ -1,0 +1,11 @@
+.DS_Store
+/coverage
+/dist
+.nyc_output
+cypress/videos
+node_modules
+/cypress/screenshots
+/storybook-static
+/dist-unminified
+.idea
+cypress/**/*.png
